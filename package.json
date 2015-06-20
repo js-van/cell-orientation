@@ -1,15 +1,16 @@
 {
   "name": "cell-orientation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Computes the orientation of a cell",
   "main": "orientation.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
+  },
+  "devDependencies": {
     "tape": "^4.0.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "tape test/*.js"
   },
